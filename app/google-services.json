@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665076664453",
+    "project_id": "nextgen-school-23423",
+    "storage_bucket": "nextgen-school-23423.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665076664453:android:80d85b6318357367c481ec",
+        "android_client_info": {
+          "package_name": "com.rhyttah.nextgen_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbpJKKEVId6jPYZSkOUdmAPIgq7QltvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
